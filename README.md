@@ -1,2 +1,17 @@
-# Task-Management-System
-Task Management System is a Python and SQLite-based console application that allows users to register, log in, and manage daily tasks with full CRUD functionality. It demonstrates modular programming, user authentication, and database management.
+# Task Management System
+
+## Features
+- User Registration
+- Login
+- Add Task
+- View Tasks
+- Update Task
+- Delete Task
+
+## How to Run
+
+```bash
+python main.py
+```
+
+Database: SQLite (xyz.db)
